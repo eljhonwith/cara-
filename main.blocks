@@ -1,0 +1,13 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="[Gv4hJreyaB0|^`-S3gh" x="0" y="0"><statement name="HANDLER"><block type="controls_if" id="WiP!EBUKU{(V$xq)nE,x"><mutation else="1"/><value name="IF0"><shadow type="logic_boolean" id="MefS[[B@kfqMLt=2*Q5k"><field name="BOOL">TRUE</field></shadow></value><statement name="DO0"><block type="device_print_message" id="b^w?{cPVsF~`W3TWg-8o"><value name="text"><shadow type="text" id="lSVHnu*h,{xBm12|{%})"><field name="TEXT">si  habla mucho es = no escucha </field></shadow></value><next><block type="device_show_leds" id="4sIRn9sY(LQjL03ZTPZ^"><field name="LEDS">`
+        . # # # . 
+        # . . . # 
+        . # . # . 
+        . . . . . 
+        . # # # .
+        `</field></block></next></block></statement><statement name="ELSE"><block type="device_print_message" id="`TpYIrG$Fp+e}rJ#4jqL"><value name="text"><shadow type="text" id="iWUK|rtZ_L/4~3Tr3VB_"><field name="TEXT">si no escucha musica se pone brava </field></shadow></value><next><block type="device_show_leds" id="@a:l}g[W-xnJw9U#N*qb"><field name="LEDS">`
+        # # . # # 
+        . # . # . 
+        . . # . . 
+        . # . # . 
+        . # # # .
+        `</field></block></next></block></statement></block></statement></block><block type="device_forever" id="K,4*X1ON+gPu7|)$8*O2" x="205" y="0"/></xml>
